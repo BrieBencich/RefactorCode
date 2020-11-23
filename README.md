@@ -5,8 +5,7 @@
 This is already exisiting code, that has been refactored to aid in accessiblity standards. 
 
 ## Website URL
-
-https://briebencich.github.io/Notes/
+https://briebencich.github.io/RefactorCode/.
 
 ## GitHub URL
 https://github.com/BrieBencich/RefactorCode
